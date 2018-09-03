@@ -1,0 +1,24 @@
+.App {
+    /*text-align: center;*/
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.App-nav{
+    height: 45px;
+}
+.App-content {
+    /*height: 70vh;*/
+    overflow: scroll;
+    height: 100%;
+    padding: 1vh;
+    text-align: center;
+}
+
+.am-result-pic .spe {
+    width: 60px;
+    height: 60px;
+}
