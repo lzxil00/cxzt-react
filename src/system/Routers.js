@@ -6,7 +6,7 @@ import {Redirect, Route, Switch} from "react-router-dom";
 import Mine from "../component/Mine/Mine";
 import Project from "../component/project/Project";
 import Business from "../component/business/Business";
-import NoMatch from "./NoMatch";
+import NoMatch from "./component/NoMatch";
 import {Button} from "antd-mobile";
 import ChannelCommDetail from "../component/project/channelcommdetail/ChannelCommDetail";
 

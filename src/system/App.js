@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import {BrowserRouter as Router, withRouter} from "react-router-dom";
 
-import TabBars from './TabBars';
+import TabBars from './component/TabBars';
 import Routers from "./Routers";
 import {Icon, NavBar} from "antd-mobile";
 
